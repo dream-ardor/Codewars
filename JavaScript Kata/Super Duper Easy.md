@@ -9,3 +9,8 @@ function problem(x) {
  return x * 50 + 6
 }
 ```
+
+Can alternatively be written using ternary operators:
+```javascript
+const problem = x => typeof x === 'string' ? 'Error' : x * 50 + 6;
+```
