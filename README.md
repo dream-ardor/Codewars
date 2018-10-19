@@ -1,2 +1,2 @@
 # Codewars
-A collection of my solutions to the Codewars challenges
+A collection of my solutions to the Codewars challenges :computer: :fire:
